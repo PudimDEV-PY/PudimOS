@@ -1,0 +1,79 @@
+📥 Como baixar e rodar o PudimOS
+
+Para rodar o PudimOS no seu computador, siga estes passos:
+
+🔧 1. Instalar o Python
+
+O PudimOS precisa do Python 3.8 ou superior.
+Baixe aqui:
+
+👉 https://www.python.org/downloads/
+
+Durante a instalação, marque a opção:
+
+✔ Add Python to PATH
+
+Isso permite rodar o Python no terminal.
+
+📥 2. Baixar o PudimOS
+
+Existem dois jeitos:
+
+Opção A — Baixar ZIP
+
+No repositório do GitHub, clique em Code
+
+Clique em Download ZIP
+
+Extraia o arquivo em uma pasta
+
+Opção B — Via Git (se tiver Git instalado)
+
+Abra o terminal e digite:
+
+git clone https://github.com/SEU_USUARIO/PudimOS.git
+
+▶️ 3. Rodar o PudimOS
+
+Entre na pasta onde está o arquivo:
+
+cd PudimOS
+
+
+E execute:
+
+python PudimOS.py
+
+
+ou, dependendo do seu sistema:
+
+python3 PudimOS.py
+
+
+Pronto! O menu do PudimOS vai aparecer no terminal.
+
+💡 4. Precisa de um programa para editar o código?
+
+Você pode usar qualquer editor de código Python, por exemplo:
+
+VS Code
+
+PyCharm
+
+Thonny
+
+Sublime Text
+
+Notepad++
+
+IDLE (vem com o Python)
+
+Todos funcionam com o PudimOS.
+
+✔️ Requisitos
+
+Python 3.8+
+
+Biblioteca random (já vem no Python)
+
+Biblioteca time (já vem no Python)
